@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Esh9VbILy3U=",
+  "dgSpecHash": "+74/Agotii8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ana\\Desktop\\Chaotic-Cupid\\ChaoticCupid\\Cupid\\Cupid.csproj",
+  "projectFilePath": "C:\\Users\\Ana\\Desktop\\Chaotic-Cupid\\ChaoticCupid\\Cupid\\Publisher.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ana\\.nuget\\packages\\microsoft.aspnetcore.connections.abstractions\\10.0.8\\microsoft.aspnetcore.connections.abstractions.10.0.8.nupkg.sha512",
     "C:\\Users\\Ana\\.nuget\\packages\\microsoft.aspnetcore.http.connections.client\\10.0.8\\microsoft.aspnetcore.http.connections.client.10.0.8.nupkg.sha512",

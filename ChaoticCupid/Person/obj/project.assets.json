@@ -1078,9 +1078,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ana\\Desktop\\Chaotic-Cupid\\ChaoticCupid\\Person\\Person.csproj",
-      "projectName": "Person",
-      "projectPath": "C:\\Users\\Ana\\Desktop\\Chaotic-Cupid\\ChaoticCupid\\Person\\Person.csproj",
+      "projectUniqueName": "C:\\Users\\Ana\\Desktop\\Chaotic-Cupid\\ChaoticCupid\\Person\\Client.csproj",
+      "projectName": "Client",
+      "projectPath": "C:\\Users\\Ana\\Desktop\\Chaotic-Cupid\\ChaoticCupid\\Person\\Client.csproj",
       "packagesPath": "C:\\Users\\Ana\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Ana\\Desktop\\Chaotic-Cupid\\ChaoticCupid\\Person\\obj\\",
       "projectStyle": "PackageReference",
