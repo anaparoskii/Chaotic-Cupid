@@ -1,5 +1,8 @@
 ﻿using Microsoft.AspNetCore.SignalR.Client;
 
+Console.WriteLine("Dobrodošli na haotičnog kupidona!");
+Console.WriteLine("Kucajte /block <username> da blokirate osobu.");
+
 Console.WriteLine("Korisničko ime: ");
 string username = Console.ReadLine() ?? "";
 while (string.IsNullOrWhiteSpace(username))
@@ -62,7 +65,6 @@ connection.On<string, string, int, string, string>("ReceiveLetter",
 
 await connection.StartAsync();
 await connection.InvokeAsync("InitSinglePerson", username, city, age, phone);
-Console.WriteLine("Kucajte /block <username> da blokirate osobu.");
 
 while (true)
 {
