@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CupidHub")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+49240b39c243555868b92e4b1d57e792cc8cd6e5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3af9be0bc236a3ee56d312d2884e2fc0b7284c3f")]
 [assembly: System.Reflection.AssemblyProductAttribute("CupidHub")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CupidHub")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

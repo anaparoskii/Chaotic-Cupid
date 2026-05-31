@@ -1,10 +1,11 @@
 ﻿using System.Security.Cryptography;
 using CupidHub.Models;
+using CupidHub.Services;
 using Microsoft.AspNetCore.SignalR;
 
 namespace CupidHub.Hubs
 {
-    public class MessageService : Hub
+    public class MessageService : Hub, IPersonService, ICupidService
     {
         private readonly static Dictionary<string, Person> _subscribers = new();
 
